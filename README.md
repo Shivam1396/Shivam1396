@@ -56,7 +56,7 @@ const shivam = {
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/____shivam____kumar________)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam1396)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
+
 
 </div>
 
@@ -149,16 +149,9 @@ const shivam = {
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/shivam1396/shivam1396/output/github-contribution-grid-snake-dark.svg)
 
-</div>
 
-<details>
-<summary>📌 <b>How to enable Snake Animation?</b></summary>
 <br>
 
 Create `.github/workflows/snake.yml` in your profile repository:
